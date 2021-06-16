@@ -1,6 +1,6 @@
 {
-  "name": "TG-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
+  "name": "NikStreamBot",
+  "description": " bot to Stream Telegram files to web.",
   "keywords": [
       "telegram",
       "stream",
